@@ -45,6 +45,6 @@
 | P1 | Weekly Guild Sync + Handoff Ritual | PE | Sprint N+1 |
 | P2 | Rename TIO → TOIO (TechOps Intelligence Office) | TCW | Post-roles |
 
-**Immediate:** File new roles; schedule first Guild Sync.
+**Immediate:** File 12-15 advisory roles; integrate into RACI for financial/legal sprints; first Guild Sync.
 
 *The pattern library compounds.*
